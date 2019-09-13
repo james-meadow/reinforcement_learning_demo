@@ -1,6 +1,6 @@
-# Reinforcement Learning demo using Python Gem 
+# Reinforcement Learning demo using Python Gym 
 
-## Simon Escapa 
+## author: Simon Escapa 
 
 
 -----------
